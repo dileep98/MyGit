@@ -40,6 +40,7 @@ MyGit is a custom-built, simplified version control system inspired by Git. It a
     ```bash
     mvn exec:java
     ```
+   If this doesn't work. Try running using run option in IntelliJ
 
 ### Commands Overview
 
