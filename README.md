@@ -167,6 +167,3 @@ MyGit is a custom-built, simplified version control system inspired by Git. It a
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to modify the above file to match the specifics of your project, such as the actual repository link, branch names, or licensing terms!
